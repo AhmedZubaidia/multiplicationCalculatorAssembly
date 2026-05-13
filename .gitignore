@@ -1,0 +1,18 @@
+# MPLAB IDE build artefacts
+*.cof
+*.lst
+*.map
+*.obj
+*.hxl
+*.err
+
+# IDE / editor metadata
+.idea/
+.vscode/
+*.mcw
+*.mcs
+*.mcp
+
+# OS metadata
+.DS_Store
+Thumbs.db
